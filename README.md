@@ -12,4 +12,4 @@ Hi there 👋 I'm [ohakutsu](https://github.com/ohakutsu).
 - [ohakutsu/zutomayo-rss](https://github.com/ohakutsu/zutomayo-rss)
 - [ohakutsu/zutomoji-hg](https://github.com/ohakutsu/zutomoji-hg)
 
-<iframe src="https://github.com/sponsors/ohakutsu/button" title="Sponsor ohakutsu" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
+[![](/docs/sponsor-button.png)](https://github.com/sponsors/ohakutsu)
