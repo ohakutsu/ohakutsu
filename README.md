@@ -1,4 +1,4 @@
-### Hi there 👋
+Hi there 👋 I'm [ohakutsu](https://github.com/ohakutsu).
 
 #### Repositories
 
@@ -11,3 +11,5 @@
 - [ohakutsu/textlint-rule-typo-detection](https://github.com/ohakutsu/textlint-rule-typo-detection)
 - [ohakutsu/zutomayo-rss](https://github.com/ohakutsu/zutomayo-rss)
 - [ohakutsu/zutomoji-hg](https://github.com/ohakutsu/zutomoji-hg)
+
+<iframe src="https://github.com/sponsors/ohakutsu/button" title="Sponsor ohakutsu" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
